@@ -1,0 +1,11 @@
+.header__lang-link_option {
+    margin: 0;
+    display: inline;
+    opacity: 1;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.header__lang-link_option:hover {
+    opacity: 0.8;
+}

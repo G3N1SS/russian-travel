@@ -1,0 +1,14 @@
+.intro__info {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    color: #ffffff;
+    margin: 0;
+    font-size: 12px;
+    line-height: 18px;
+    width: 100%;
+}
+
+.intro__info:nth-child(1) {
+    font-weight: 400;
+    display: inline;
+}
