@@ -12,6 +12,12 @@
     grid-area: subtitle;
 }
 
+@media screen and (max-width:788px) {
+    .lead__subtitle {
+        margin: 0 auto 56px auto;
+    }
+}
+
 @media screen and (max-width:700px) {
     .lead__subtitle {
         max-width: calc(100% - 2 * 16px);
