@@ -24,7 +24,7 @@
     }
 }
 
-@media screen and (max-width:426px) {
+@media screen and (max-width:686px) {
     .place {
         grid-template-areas:
             "title"
