@@ -7,8 +7,3 @@
     line-height: 18px;
     width: 100%;
 }
-
-.intro__info:nth-child(1) {
-    font-weight: 400;
-    display: inline;
-}
